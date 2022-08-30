@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhsanIsCoding
+- 👋 Hi, I’m @AhsantheDataDR.
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Data Science Skills
 - 💞️ I’m looking to collaborate on Data Science Projects
